@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+main.py
+
 # C extensions
 *.so
 
@@ -127,3 +129,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 过滤文件
+user_data.json
+datas/models/_memory/
+datas/models/_assets/
+datas/temp_cache/_challenge/
+datas/temp_cache/captcha_screenshot/
