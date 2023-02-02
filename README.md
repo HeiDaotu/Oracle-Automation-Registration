@@ -1,4 +1,4 @@
-
+### 获取甲骨文邮件部分gif演示图
 ![动画](https://cdn.jsdelivr.net/gh/HeiDaotu/img-bucket/img/202302021333610.gif)
 ### 甲骨文自动化注册
 
