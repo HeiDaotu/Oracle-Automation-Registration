@@ -117,6 +117,7 @@ except:
     }
     json_data = json.dumps(data, indent=4, separators=(',', ': '))
     f.write(json_data)
+    f.close()
 
 # Init local-side of the ModelHub
 solver.install()
